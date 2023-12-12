@@ -21,7 +21,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 ```
 DEVELOPED BY:S.Sajetha
 REGISTER NO :212223100049
@@ -60,7 +59,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 # Output
-![Uploading save3.png…]()
+![save3](https://github.com/Sajetha13/Correlation_Regression/assets/138849316/0d6c7dc6-2673-470c-a4c3-6ec26d509e7f)
+
 
 # Result
 The Experiment Correlation and regression for data analysis is runned succesfully.
